@@ -1,3 +1,3 @@
 # Archive Plan
 
-Initial inventory.
+Archived: yes
